@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">ABCRobot</string>
+    <string name="Option_True_String">是</string>
+    <string name="Option_False_String">否</string>
+    <string name="Option_Start_String">开始评估 </string>
+    <string name="Option_Previous_String">\u25C4</string>
+    <string name="Option_Next_String">\u25BA</string>
+    <string name="Option_Right_Arrow_String">\u003E</string>
+    <string name="Option_Submit_String">提交</string>
+    <string name="EvaluatedFilter_confirm_String">您好，欢迎进行儿童孤独症评估测量。</string>
+    <string name="ChildInfo_Welcome_String">请填写以下儿童的相关信息:</string>
+    <string name="btn_StartAnswer_String">开始答题</string>
+    <string name="txt_ChildInfo_Name_String">姓名：</string>
+    <string name="txt_ChildInfo_Sex_String">性别：</string>
+    <string name="txt_ChildInfo_Birthday_String">出生日期：</string>
+    <string name="txt_ChildInfo_Age_String">年龄：</string>
+    <string name="txt_ChildInfo_Preparer_String">填表人：</string>
+    <string name="txt_ChildInfo_AssessingDate_String">测量日期：</string>
+    <string name="alert_ChildNameIsEmpty_String">请填写孩子的姓名</string>
+    <string name="alert_ChildBirthdayError_String">请选择孩子的年龄</string>
+    <string name="alert_CurrentQuestionNoAnswer_String">当前问题没有作答</string>
+    <string name="alert_CurrentQuestionLevel_String">请选择问题的严重程度</string>
+    <string name="question_Level_Light_String">轻</string>
+    <string name="question_Level_Medium_String">中</string>
+    <string name="question_Level_Heavy_String">偏重</string>
+    <string name="question_Level_Serious_String">严重</string>
+    <string name="assessed_Result_Title">ABC测量结果报告单</string>
+    <string name="assessed_Result_Analysis_Title">结果分析：</string>
+    <string name="assessed_Result_ABCScore_Title">ABC总分：</string>
+    <string name="Option_EndAssessing_String">结束评估</string>
+    <string name="assessed_Analysis_Result_Level01">您孩子得分小于53分，不具有孤独症行为</string>
+    <string name="assessed_Analysis_Result_Level02">您孩子得分大于53分，小于67，具有轻度孤独症行为</string>
+    <string name="assessed_Analysis_Result_Level03">您孩子得分大于于67，其阳性符合可达85%</string>
+</resources>
